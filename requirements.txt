@@ -14,3 +14,4 @@ huggingface-hub==0.20.3
 sentence-transformers==2.6.1
 langchain-text-splitters==0.0.1
 langchain-core==0.1.37
+python-multipart==0.0.6
